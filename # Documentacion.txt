@@ -1,0 +1,30 @@
+# Proyecto de Distribución de Alimentos
+
+## Descripción
+Este proyecto consiste en el desarrollo de una aplicación para una empresa de distribución de alimentos, que incluye funcionalidades como despacho a domicilio y registro de usuarios.
+
+## Requerimientos del Proyecto
+### Requerimientos Funcionales:
+1. El sistema debe permitir a los usuarios registrarse utilizando cuentas de Gmail.
+2. El sistema debe calcular automáticamente el costo de despacho de acuerdo con las reglas de negocio especificadas.
+3. El sistema debe solicitar y almacenar información sobre el vehículo del usuario, incluyendo marca, modelo, cilindrada, tipo de combustible y capacidad en pasajeros.
+
+### Requerimientos No Funcionales:
+1. La aplicación debe ser fácil de usar y tener una interfaz intuitiva.
+2. El sistema debe ser eficiente y proporcionar respuestas rápidas al usuario.
+3. La aplicación debe ser segura y proteger la información del usuario.
+
+## Historias de Usuario
+### Historia de Usuario 1: Registro de Usuario
+...
+### Historia de Usuario 2: Cálculo de Costo de Despacho
+...
+
+## Cronograma Inicial
+| Fase del Desarrollo       | Fecha de Inicio | Fecha de Finalización |
+|---------------------------|-----------------|-----------------------|
+| Análisis de Requerimientos| 07/04/2024      | 09/04/2024            |
+| Desarrollo del Programa   | 08/04/2024      | 09/04/2024            |
+| Pruebas y Depuración      | 8/04/2024       | 09/04/2024            |
+| Documentación Final       | 9/04/2024       | 09/05/2024            |
+
